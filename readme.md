@@ -4,7 +4,7 @@ Hiling.id
 Apk Preview 
 ---
 <p align="center">
-    <img width="200px" src="src\assets\cover.jpg">
+    <img width="200px" src="src\assets\cover.jpeg">
 </p>
 
 ## Apk Link
