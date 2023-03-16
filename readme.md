@@ -4,7 +4,7 @@ Hiling.id
 Apk Preview 
 ---
 <p align="center">
-    <img width="200px" src="./src/assets/Screenshot_2023-03-14-00-10-16-411_host.exp.exponent.jpg">
+    <img width="200px" src="cover.jpg">
 </p>
 
 ## Apk Link
